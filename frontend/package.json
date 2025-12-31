@@ -1,0 +1,11 @@
+{
+  "name": "aikp-frontend",
+  "version": "1.0.0",
+  "main": "aikp.js",
+  "scripts": {
+    "start": "node aikp.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}

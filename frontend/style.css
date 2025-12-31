@@ -1,0 +1,21 @@
+body{
+    margin:2rem;
+    background-color: #141031;
+    color:white;
+    font-family: georgia, serif;
+}
+
+
+
+#docContain{
+    border-radius:5px;
+    padding:5rem;
+    width: 50%;
+    height:35rem;
+    color:black;
+    background-color:white;
+}
+
+#docContain p{
+    margin:0;
+}
