@@ -90,6 +90,5 @@ PostgreSQL, pgvector (vector embeddings)
 Docker & Docker Compose, Postman (API testing), Git & GitHub
 
 # 📁 System Architecture
-<img width="960" height="570" alt="Screenshot 2025-12-30 at 10 30 07 AM" src="https://github.com/user-attachments/assets/c6d5b6a0-cdfb-4c98-9da0-1c97261e3023" />
-
+<img width="960" height="570" alt="System Arch" src="https://github.com/user-attachments/assets/8a00bb1a-80b8-4a52-9762-d93fcef3d403" />
 
