@@ -89,6 +89,4 @@ PostgreSQL, pgvector (vector embeddings)
 # 🖥️ DevOps & Tooling
 Docker & Docker Compose, Postman (API testing), Git & GitHub
 
-# 📁 System Architecture
-<img width="960" height="570" alt="System Arch" src="https://github.com/user-attachments/assets/8a00bb1a-80b8-4a52-9762-d93fcef3d403" />
 
