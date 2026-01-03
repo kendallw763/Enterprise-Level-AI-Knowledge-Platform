@@ -1,8 +1,4 @@
 # 🤘🏾 Enterprise-AI-Knowledge-Platform
-A production grade, AI enabled backend system that allows organizations to ingest internal documents, APIs, and structured data, then query them via secure REST endpoints using Retrieval Augmented Generation (RAG). This single project demonstrates backend engineering, AI integration, data modeling, system design, DevOps, and a touch of frontend.
-
-
-
 # 🪨 Core Features
 
 **Document Ingestion**
